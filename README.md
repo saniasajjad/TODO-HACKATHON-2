@@ -30,8 +30,8 @@ A modern, keyboard-driven Terminal User Interface (TUI) for managing todo tasks.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/GrowWidTalha/SDDRI-Hackathon-2.git
-cd SDDRI-Hackathon-2
+git clone https://github.com/saniasajjad/TODO-HACKATHON-2
+cd TODO-HACKATHON-2
 ```
 
 2. Install dependencies:
