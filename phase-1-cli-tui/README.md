@@ -26,15 +26,9 @@ A modern, keyboard-driven Terminal User Interface (TUI) for managing todo tasks.
 - Python 3.13 or higher
 - [UV](https://github.com/astral-sh/uv) package manager
 
-### Setup
+### Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/saniasajjad/TODO-HACKATHON-2
-cd TODO-HACKATHON-2
-```
-
-2. Install dependencies:
+1. Install dependencies:
 ```bash
 uv sync
 ```
